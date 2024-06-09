@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Generic RecyclerView Adapter</title>
+    Generic RecyclerView Adapter
 </head>
 <body>
     <h1>Generic RecyclerView Adapter with ViewBinding and DataBinding</h1>
